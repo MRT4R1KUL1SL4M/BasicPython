@@ -1,0 +1,10 @@
+subject=["Tarik","T","a","r","i","k"]
+print(subject)
+print(subject[0])
+print(subject[:2])
+print(subject[2:])
+print(subject[-1])
+print("Tarik" in subject)
+print("T" not in subject)
+print(subject+["Tarikul",69])
+print(subject * 2)
